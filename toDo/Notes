@@ -1,0 +1,43 @@
+lien utile:
+
+apprendre-php.com
+
+Rapport de stage deroulement:
+
+_Presentation entreprise
+_presentation projet
+
+
+
+_Cahier des charges des modules à dévellopper
+    -liste des fonctionnalités
+
+
+_choix des technologies
+    *un framework MVC "from scratch"
+
+    - l'architecture choisie
+    - comment résoudre la problématique de l'autoloader ...rep: composer
+    -comment gérer les modèles et les controlleurs
+
+Merise et Uml (a mettre des étapes de conceptions)
+
+      *un framework MVC Html/css
+        =>Boostrap
+        -grille
+        -helpers(elements deja tout prêts)
+        -responsive
+
+    Etapes a respecter ///Mockup-->PSD-->Bootstrap
+
+ *un serveur Apache
+
+ *Une base de données Mysql
+
+ ____________________________________________
+ CONCLUSION____Projets pour l'avenir         |
+    //dire on va etre embaucheé              |
+    a quoi servira le diplome, etc...
+
+
+

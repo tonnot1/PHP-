@@ -1,0 +1,322 @@
+# Translation of Themes - Maker in French (France)
+# This file is distributed under the same license as the Themes - Maker package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 03:38:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Maker\n"
+
+#. Description of the plugin/theme
+msgid "Maker is a portfolio WordPress theme that features classic grid-based layout, clean typography, and minimalistic style, that allows you to create a website that is both modern and timeless. Works great for web and graphic designers, illustrators, photographers, and other creative folks who make beautiful things. Info and demo at https://themepatio.com/themes/maker"
+msgstr "Maker est un thème WordPress adapté aux portfolios qui propose un gabarit en grille classique, une typographie propre et un style minimaliste, permettant de créer un site à la fois moderne et intemporel. Fonctionne parfaitement pour les webdesigners, illustrateurs, photographes, et autres créatifs qui réalisent de belles choses. Informations et démonstration sur https://themepatio.com/themes/maker"
+
+#. Theme Name of the plugin/theme
+msgid "Maker"
+msgstr "Maker"
+
+#: inc/extras.php:99
+msgid "Upgrading from version prior to <strong>Maker 0.3.0</strong>? Read the <a href=\"%1$s\" target=\"_blank\">release notes</a>, this update requires a bit of action on your side. <a href=\"%2$s\" target=\"_blank\">Got it, don't show again.</a>"
+msgstr "Vous devez faire une mise à niveau depuis une version précédant <strong>Maker 0.3.0</strong> ? Lisez les <a href=\"%1$s\" target=\"_blank\">notes de versions</a>, car cette mise à jour requiert des actions de votre part. <a href=\"%2$s\" target=\"_blank\">J’ai compris, inutile de me montrer cela à nouveau.</a>"
+
+#: inc/customizer.php:120
+msgid "Custom URL"
+msgstr "URL personnalisé"
+
+#: inc/customizer.php:119
+msgid "Frontpage"
+msgstr "Page d’accueil"
+
+#: inc/customizer.php:118
+msgid "Archive"
+msgstr "Archive"
+
+#: inc/customizer.php:113
+msgid "All Projects links to"
+msgstr "Cible du lien vers la liste des projets"
+
+#: inc/customizer.php:74
+msgid "Appears before the portfolio grid."
+msgstr "Apparaît avant la grille de portfolio"
+
+#: inc/customizer.php:55
+msgid "To edit the portfolio, navigate to portfolio grid page in the preview screen."
+msgstr "Pour modifier le portfolio, allez dans la page grille de portfolio dans l'écran de Prévisualisation."
+
+#: inc/customizer.php:25
+msgid "Display Site Title"
+msgstr "Affiche le titre du site"
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "%1$s Reply"
+msgid_plural "%1$s Replies"
+msgstr[0] "%1$s réponse"
+msgstr[1] "%1$s réponses"
+
+#: comments.php:29
+msgid "One Reply"
+msgstr "Une réponse"
+
+#: inc/customizer.php:168
+msgid "Upgrade Maker and set your own custom footer message."
+msgstr "Mettez à niveau Maker et ajoutez votre propre texte personnalisé en pied de page."
+
+#: inc/customizer.php:145 inc/customizer.php:155 inc/customizer.php:170
+msgid "Upgrade Maker"
+msgstr "Mette à jour Maker"
+
+#: inc/customizer.php:53
+msgid "Navigate to Portfolio"
+msgstr "Aller au portfolio"
+
+#: inc/customizer.php:153
+msgid "Upgrade Maker and set <strong>2, 3</strong> or <strong>4</strong>-column layout for the portfolio grid page."
+msgstr "Mettez à niveau Maker et disposez de mises en page en <strong>2, 3</strong> ou <strong>4</strong> colonnes pour le modèle de page portfolio en grille."
+
+#: inc/customizer.php:143
+msgid "Upgrade Maker and create your own color schemes, changing the color of links, text and background."
+msgstr "Mettez à niveau Maker et créez vos propres jeux de couleurs, changez la couleur des liens, des textes et des fonds."
+
+#: inc/customizer.php:167
+msgid "Footer Message"
+msgstr "Message de pied de page"
+
+#: inc/customizer.php:163
+msgid "Footer"
+msgstr "Pied de page"
+
+#: inc/customizer.php:152
+msgid "Portfolio Columns"
+msgstr "﻿Colonnes du portfolio"
+
+#: inc/customizer.php:142
+msgid "Custom Colors"
+msgstr "Couleurs personnalisées"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio – Portfolio Toolkit"
+msgstr "Portfolio - Boîte à outils de portfolio"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio – Jetpack"
+msgstr "Portfolio – Jetpack"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr "Pleine largeur"
+
+#. Template Name of the plugin/theme
+msgid "Centered"
+msgstr "Centré"
+
+#: template-parts/content.php:24
+msgid "Continue reading %s"
+msgstr "Lire la suite de %s"
+
+#: template-parts/content-search.php:22
+msgid "Continue Reading"
+msgstr "la suite..."
+
+#: template-parts/content-page-portfolio.php:24
+#: template-parts/content-page.php:24
+#: template-parts/content-single-portfolio.php:28
+#: template-parts/content-single.php:26 template-parts/content.php:26
+msgid "Pages:"
+msgstr "Pages :"
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que rien ne soit trouvé pour votre recherche."
+
+#: template-parts/content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères."
+
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt(e) à publier votre premier article&nbsp;: <a href=\"%1$s\">Lancez-vous ici</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour&nbsp;: %s"
+
+#: inc/template-tags.php:509
+msgid "%1$s theme by %2$s"
+msgstr "%1$s thème par %2$s."
+
+#: inc/template-tags.php:495
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: inc/template-tags.php:494
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: inc/template-tags.php:491
+msgid "Comment navigation"
+msgstr "Navigation Commentaire"
+
+#: inc/template-tags.php:479
+msgid "Portfolio navigation"
+msgstr "Navigation de Portfolio"
+
+#: inc/template-tags.php:444
+msgid "All Projects"
+msgstr "Tous les projets"
+
+#: inc/template-tags.php:473
+msgid "Next"
+msgstr "Suivant"
+
+#: inc/template-tags.php:465
+msgid "Prev"
+msgstr "Préc."
+
+#: inc/template-tags.php:409
+msgid "Newer:"
+msgstr "Plus récent :"
+
+#: inc/template-tags.php:408
+msgid "Older:"
+msgstr "Plus ancien :"
+
+#: inc/template-tags.php:405
+msgid "Post navigation"
+msgstr "Navigation de l'article"
+
+#: inc/template-tags.php:391
+msgid "Posts navigation"
+msgstr "Navigation au sein des articles"
+
+#: inc/template-tags.php:390
+msgid "Older"
+msgstr "ancien"
+
+#: inc/template-tags.php:389
+msgid "Newer"
+msgstr "récent"
+
+#: inc/template-tags.php:317
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: inc/template-tags.php:308
+msgid "Category"
+msgstr "Catégorie"
+
+#: inc/template-tags.php:299
+msgid "Link"
+msgstr "Lié"
+
+#: inc/template-tags.php:288
+msgid "Date"
+msgstr "Date de publication"
+
+#: inc/template-tags.php:279
+msgid "Client"
+msgstr "Client"
+
+#: inc/template-tags.php:210 inc/template-tags.php:341
+msgid "Edit"
+msgstr "Modifier"
+
+#: inc/template-tags.php:185
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: inc/template-tags.php:184
+msgid "One Comment"
+msgstr "Un commentaire"
+
+#: inc/template-tags.php:183
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ", "
+
+#: inc/jetpack.php:49
+msgid "Load More"
+msgstr "En afficher davantage"
+
+#: inc/customizer.php:132
+msgid "Link to all projects"
+msgstr "Lien pour tous les projets"
+
+#: inc/customizer.php:99
+msgid "Display Project Meta"
+msgstr "Afficher le meta du projet"
+
+#: inc/customizer.php:85
+msgid "Display Project Excerpt"
+msgstr "Afficher l'extrait du projet"
+
+#: inc/customizer.php:70
+msgid "Display Page Content"
+msgstr "Afficher le contenu de page"
+
+#: inc/customizer.php:45
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: inc/customizer.php:38
+msgid "Display Tagline"
+msgstr "Afficher le slogan"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#: functions.php:131
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: functions.php:77
+msgid "Footer Menu"
+msgstr "Menu Pied"
+
+#: functions.php:76 header.php:33
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: comments.php:67
+msgid "Cancel"
+msgstr "Annuler"
+
+#: comments.php:66
+msgid "Reply to %s"
+msgstr "Répondre à %s"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Commentaires clos."
+
+#: 404.php:20
+msgid "Looks like the page you are looking for has been moved or does not exist. But there are still couple of things you can do. Click on the site logo to go to the homepage or try searching."
+msgstr "Il semble que la page que vous recherchez a été déplacée ou n'existe pas. Mais il y a toujours quelque choser à faire. Cliquez sur le logo du site pour aller sur l'accueil ou essayez une recherche."
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups, la page ne peut être trouvée"
+
+#. Author URI of the plugin/theme
+msgid "https://themepatio.com/"
+msgstr "https://themepatio.com/"
+
+#. Author of the plugin/theme
+msgid "ThemePatio"
+msgstr "ThemePatio"
+
+#. Theme URI of the plugin/theme
+msgid "https://themepatio.com/themes/maker/"
+msgstr "https://themepatio.com/themes/maker/"

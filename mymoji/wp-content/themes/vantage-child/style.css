@@ -1,0 +1,14 @@
+/*
+ Theme Name:   Vantage Child
+ Theme URI:    http://moi.com/
+ Description:  Un theme enfant
+ Author:       John Dovitch
+ Author URI:   http://moi.com
+ Template:     vantage
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ 
+*/
+@import url('../vantage/style.css');
+@import url('css/monstyle.css');

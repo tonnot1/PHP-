@@ -1,0 +1,19 @@
+{
+    "name": "stagiaire/to-do",
+    "description": "\"Plus proche de symfony encore\"",
+    "type": "project",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0"
+    },
+    "autoload":{
+        "psr-4":{
+        "TODO\\": "src"
+}
+    },
+    "authors": [
+        {
+            "name": "tamer",
+            "email": "tamouch@hotmail.com"
+        }
+    ]
+}
